@@ -70,6 +70,21 @@
       <DependentUpon>APRIGIODB.mdf</DependentUpon>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="ExerciciosComplementares\dbo.AUTOR.data.sql" />
+    <Content Include="ExerciciosComplementares\dbo.Autor.sql" />
+    <Content Include="ExerciciosComplementares\dbo.CLIENTE.data.sql" />
+    <Content Include="ExerciciosComplementares\dbo.Exemplos.sql" />
+    <Content Include="ExerciciosComplementares\dbo.LIVRO.sql" />
+    <Content Include="ExerciciosComplementares\dbo.PRODUTO.data.sql" />
+    <Content Include="ExerciciosComplementares\dbo.Table.data.sql" />
+    <Content Include="ExerciciosComplementares\dbo.Table.sql" />
+    <Content Include="ExerciciosComplementares\dbo.Table3.sql" />
+    <Content Include="ExerciciosComplementares\dbo.Table4.sql" />
+    <Content Include="ExerciciosComplementares\dbo.Table_1.sql" />
+    <Content Include="ExerciciosComplementares\dbo.Table_2.sql" />
+    <Content Include="ExerciciosComplementares\SQLQuery1.sql" />
+    <Content Include="ExerciciosComplementares\SQLQuery2.sql" />
+    <Content Include="ExerciciosComplementares\SQLQuery5.sql" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
