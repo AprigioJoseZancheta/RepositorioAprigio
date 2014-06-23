@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Trabalho\Trabalho SQL.docx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="BancoDeDados\APRIGIODB.mdf">
