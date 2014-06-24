@@ -16,15 +16,20 @@ namespace Unidade13
             cores.Add("Branco");
             cores.Add("Vermelho");
             cores.Add("Azul");
+            
 
             ArrayList numeros = new ArrayList();
 
             numeros.Add(2);
             numeros.Add(3);
             numeros.Add(9);
+            
 
             MostraCores(cores);
+            Console.WriteLine("Contém a com Branca: {0} ", cores.Contains("Branco"));
+            
             MostraNumero(numeros);
+            Console.WriteLine("Contém o número 4: {0} ", numeros.Contains(4));
             Console.ReadKey();
         }
 
@@ -43,5 +48,7 @@ namespace Unidade13
                 Console.WriteLine(i);
             }
         }
+
+
     }
 }

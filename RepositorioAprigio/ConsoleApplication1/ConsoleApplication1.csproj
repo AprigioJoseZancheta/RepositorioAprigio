@@ -72,7 +72,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="ExerciciosComplementares\SQLQuery1.sql" />
-    <Content Include="Trabalho\SQLQuery1.sql" />
+    <Content Include="Trabalho\SQLQuery2.sql" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
