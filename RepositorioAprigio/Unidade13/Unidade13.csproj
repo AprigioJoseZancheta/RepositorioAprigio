@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ADEC58AA-9A11-41E1-B675-7AA3F6819D14}</ProjectGuid>
+    <ProjectGuid>{20D6C5C4-1E57-43D6-9E67-9BC784FE1D66}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Unidade2ExercicosDeFixacao</RootNamespace>
-    <AssemblyName>Unidade2ExercicosDeFixacao</AssemblyName>
+    <RootNamespace>Unidade13</RootNamespace>
+    <AssemblyName>Unidade13</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
