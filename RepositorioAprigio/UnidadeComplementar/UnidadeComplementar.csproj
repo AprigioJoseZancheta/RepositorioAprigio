@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5DF80320-C163-4A50-84E8-88DF05190BB0}</ProjectGuid>
+    <ProjectGuid>{91BB15E8-B871-4D1B-B365-6FD8FDF88F30}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Unidade10Exercicio1</RootNamespace>
-    <AssemblyName>Unidade10Exercicio1</AssemblyName>
+    <RootNamespace>UnidadeComplementar</RootNamespace>
+    <AssemblyName>UnidadeComplementar</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
